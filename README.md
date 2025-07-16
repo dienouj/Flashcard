@@ -1,7 +1,4 @@
 
-## 📄 `README.md`
-
-```markdown
 # 📚 Flashcard Generator
 
 Un petit projet Python qui permet de générer et de tester des **flashcards** personnalisées à partir d’un sujet donné par l’utilisateur.
