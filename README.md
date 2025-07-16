@@ -93,5 +93,5 @@ Aucune dépendance externe requise pour le moment.
 
 ## 👤 Auteur
 
-Projet réalisé dans le cadre d’un exercice Python personnel ou académique.
+Projet réalisé par Jouneid
 
